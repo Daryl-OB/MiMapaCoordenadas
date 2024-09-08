@@ -38,7 +38,12 @@ dependencies {
     implementation(libs.activity)
     implementation(libs.constraintlayout)
     implementation("com.google.android.gms:play-services-maps:19.0.0")
+    implementation(libs.play.services.location)
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+
+    //animacion libreria
+    implementation ("com.airbnb.android:lottie:6.5.2")
+
 }

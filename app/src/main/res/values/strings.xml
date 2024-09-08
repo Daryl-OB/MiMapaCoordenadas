@@ -1,3 +1,32 @@
 <resources>
-    <string name="app_name">MyMap</string>
+    <string name="app_name">My Coordinates</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="dando_bienbenida">Estamos encantados de que te unas a nuestra aplicación. My Coordinates te permite explorar el mundo de una manera nueva y emocionante. Con nuestra integración de la API de Google Maps, puedes seleccionar cualquier punto en el mapa y obtener las coordenadas precisas de esa ubicación.</string>
+    <string name="dando_bienbenida_2">¡Es muy fácil de usar! Simplemente toca en cualquier parte del mapa para ver las coordenadas exactas y descubre información valiosa sobre tu ubicación elegida. Perfecto para viajeros, aventureros y cualquier persona que quiera tener un control más detallado sobre sus ubicaciones.</string>
+    <string name="omitir_todo">Omitir todo</string>
+    <string name="_1_de_2">1 de 2</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="instrucciones">Instrucciones</string>
+    <string name="dando_instrucciones_1">
+    1. Toca en cualquier punto del mapa para seleccionar una ubicación específica.
+    La aplicación mostrará un marcador en la posición seleccionada.
+    Ver las Coordenadas
+    </string>
+    <string name="dando_instrucciones_2">
+    2. Después de seleccionar una ubicación, las coordenadas (latitud y longitud) aparecerán automáticamente en la pantalla.
+    Puedes ver estos detalles en los campos de texto ubicados en la parte inferior de la pantalla.
+    </string>
+    <string name="dando_instrucciones_3">
+    3. Si deseas seleccionar una nueva ubicación, simplemente toca en otro punto del mapa.
+    El marcador se moverá a la nueva posición y las coordenadas se actualizarán en consecuencia.
+    </string>
+    <string name="dando_instrucciones_4">
+    4. Para salir de MyCoordinates, toca el botón SALIR en la esquina superior derecha de la pantalla.
+    </string>
+    <string name="_2_de_2">2 de 2</string>
+    <string name="mapa_de_coordenadas">My Coordinates</string>
+    <string name="ver_instrucciones">Ver instrucciones</string>
+    <string name="cr_ditos">Créditos</string>
+    <string name="salir">Salir</string>
+    <string name="nombre_de_la_app">Nombre de la App</string>
 </resources>
